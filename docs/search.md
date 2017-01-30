@@ -1,6 +1,11 @@
 <!--tags: help, start -->
 
 # Searching
+As you might notice we've got a little bit different approach to documentation management. We don't force to create structure, link chapters and etc.
+Documentation for us is just an information. This information should be found by typing search request - just the same as googling something.
+You've got different options to make document easily searchable. Let's get familiar with them.
+
+## Intro
 Did you type full file path (`search.md`) to open this document? Did you selected it by mouse?
 There are other much more simple options to find documents. You can find this document by typing `se` | `help` | `search start` | `action`.
 Why? Let's figure it out.
@@ -10,7 +15,7 @@ Why? Let's figure it out.
 > * `arrow down` / `arrow up` - select next / prev document from suggestions
 > * `ctrl`+`1` - select input field
 
-## Into
+## Two ways to find document
 You can find document in two ways:
 * by filter - filter documents by path and tags - works on client - very fast
 * or by fulltext search - filter documents by fulltext search over content - works on server - a little bit slower.
